@@ -131,6 +131,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.apache.logging.log4j.ThreadContext;
 
 public class BaseClass {
 	private static ThreadLocal<WebDriver> threadDriver = new ThreadLocal<>();
@@ -153,6 +154,8 @@ public class BaseClass {
 	@BeforeClass(groups = { "sanity", "regression", "master", "dataDriven" })
 	@Parameters({ "os", "browser" })
 	public void setup(String os, String br) {
+		String testName = getClass().getSimpleName();
+		ThreadContext.put("testName", testName);
 		logger = LogManager.getLogger(this.getClass());
 
 		String fname = "config.properties";
@@ -173,7 +176,7 @@ public class BaseClass {
 			DesiredCapabilities cap = new DesiredCapabilities();
 
 			if (os.equalsIgnoreCase("windows")) {
-				cap.setPlatform(Platform.WIN11);
+				cap.setPlatform(Platform.WINDOWS);
 			} else if (os.equalsIgnoreCase("mac")) {
 				cap.setPlatform(Platform.MAC);
 			} else if (os.equalsIgnoreCase("Linux")) {
@@ -242,6 +245,8 @@ public class BaseClass {
 		} catch (Exception e) {
 			logger.error("Failed to navigate to the application URL: " + properties.getProperty("appUrl"), e);
 			e.printStackTrace();
+			getDriver().quit();
+			removeDriver();
 			Assert.fail("Test setup failed: Unable to open the application URL.");
 		}
 
@@ -250,6 +255,7 @@ public class BaseClass {
 
 	@AfterClass(groups = { "sanity", "regression", "master", "dataDriven" })
 	public void tearDown() {
+		ThreadContext.clearAll();
 		if (getDriver() != null) {
 			getDriver().quit();
 			removeDriver();

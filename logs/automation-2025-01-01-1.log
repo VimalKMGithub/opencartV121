@@ -1,0 +1,64 @@
+01-01-2025 06:03:46.571 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vimal\eclipse-workspace\opencartV121\master.xml
+
+01-01-2025 06:03:48.971 [TestNG-test-Test-2] INFO  testCases.TC002_LoginTest - WebDriver initialized successfully.
+01-01-2025 06:03:48.971 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - WebDriver initialized successfully.
+01-01-2025 06:03:48.971 [TestNG-test-Test-1] INFO  testCases.TC001_AccountRegistrationTest - WebDriver initialized successfully.
+01-01-2025 06:03:48.993 [TestNG-test-Test-1] INFO  testCases.TC001_AccountRegistrationTest - All cookies cleared.
+01-01-2025 06:03:48.993 [TestNG-test-Test-2] INFO  testCases.TC002_LoginTest - All cookies cleared.
+01-01-2025 06:03:48.993 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - All cookies cleared.
+01-01-2025 06:03:48.999 [TestNG-test-Test-1] INFO  testCases.TC001_AccountRegistrationTest - Implicit wait set to 10 seconds.
+01-01-2025 06:03:48.999 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - Implicit wait set to 10 seconds.
+01-01-2025 06:03:48.999 [TestNG-test-Test-2] INFO  testCases.TC002_LoginTest - Implicit wait set to 10 seconds.
+01-01-2025 06:03:50.489 [TestNG-test-Test-2] INFO  testCases.TC002_LoginTest - Navigated to the application URL: https://tutorialsninja.com/demo/
+01-01-2025 06:03:50.517 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - Navigated to the application URL: https://tutorialsninja.com/demo/
+01-01-2025 06:03:50.611 [TestNG-test-Test-2] INFO  testCases.TC002_LoginTest - **** Started TC002_LoginTest ****
+01-01-2025 06:03:50.698 [TestNG-test-Test-1] INFO  testCases.TC001_AccountRegistrationTest - Navigated to the application URL: https://tutorialsninja.com/demo/
+01-01-2025 06:03:50.751 [TestNG-test-Test-1] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+01-01-2025 06:03:51.065 [TestNG-test-Test-2] INFO  testCases.TC002_LoginTest - Clicked on My Account link
+01-01-2025 06:03:51.313 [TestNG-test-Test-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+01-01-2025 06:03:51.505 [TestNG-test-Test-2] INFO  testCases.TC002_LoginTest - Clicked on Login link
+01-01-2025 06:03:51.510 [TestNG-test-Test-2] INFO  testCases.TC002_LoginTest - Providing login details
+01-01-2025 06:03:51.939 [TestNG-test-Test-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+01-01-2025 06:03:51.943 [TestNG-test-Test-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+01-01-2025 06:03:52.418 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+01-01-2025 06:03:52.553 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+01-01-2025 06:03:52.662 [TestNG-test-Test-2] INFO  testCases.TC002_LoginTest - Validating expected message...
+01-01-2025 06:03:52.685 [TestNG-test-Test-2] INFO  testCases.TC002_LoginTest - Test passed..
+01-01-2025 06:03:52.705 [TestNG-test-Test-2] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+01-01-2025 06:03:53.067 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+01-01-2025 06:03:53.069 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: admin@db.com
+01-01-2025 06:03:53.680 [TestNG-test-Test-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message...
+01-01-2025 06:03:53.725 [TestNG-test-Test-1] INFO  testCases.TC001_AccountRegistrationTest - Test passed..
+01-01-2025 06:03:53.725 [TestNG-test-Test-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+01-01-2025 06:03:54.160 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+01-01-2025 06:03:54.689 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - Login successful, logged out successfully.
+01-01-2025 06:03:54.691 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+01-01-2025 06:03:54.694 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+01-01-2025 06:03:54.795 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+01-01-2025 06:03:55.112 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+01-01-2025 06:03:55.112 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: admin@db.com
+01-01-2025 06:03:55.972 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+01-01-2025 06:03:55.985 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - Login failed as expected.
+01-01-2025 06:03:55.985 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+01-01-2025 06:03:55.989 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+01-01-2025 06:03:56.104 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+01-01-2025 06:03:56.422 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+01-01-2025 06:03:56.424 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: jk@gmail.com
+01-01-2025 06:03:57.098 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+01-01-2025 06:03:57.106 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - Login failed as expected.
+01-01-2025 06:03:57.106 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+01-01-2025 06:03:57.108 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+01-01-2025 06:03:57.201 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+01-01-2025 06:03:57.505 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+01-01-2025 06:03:57.506 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: vimalkm@db.com
+01-01-2025 06:03:58.388 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+01-01-2025 06:03:58.889 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - Login successful, logged out successfully.
+01-01-2025 06:03:58.889 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+01-01-2025 06:03:58.893 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+01-01-2025 06:03:59.029 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+01-01-2025 06:03:59.356 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+01-01-2025 06:03:59.356 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: vimalk@db.com
+01-01-2025 06:04:00.064 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+01-01-2025 06:04:00.119 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - Login failed as expected.
+01-01-2025 06:04:00.119 [TestNG-test-Test-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****

@@ -19,7 +19,7 @@
     <classes>
       <class name="testCases.TC001_AccountRegistrationTest"/>
       <class name="testCases.TC002_LoginTest"/>
-      <class name="testCases.TC003_LoginDDT"/>
+      <!-- <class name="testCases.TC003_LoginDDT"/> -->
     </classes>
   </test> <!-- Test -->
   
@@ -29,17 +29,17 @@
     <classes>
       <class name="testCases.TC001_AccountRegistrationTest"/>
       <class name="testCases.TC002_LoginTest"/>
-      <class name="testCases.TC003_LoginDDT"/>
+      <!-- <class name="testCases.TC003_LoginDDT"/> -->
     </classes>
   </test> <!-- Test -->
   
-  <test name="TestFirefox">
+  <!-- <test name="TestFirefox">
   	<parameter name="os" value="Windows"/>
   	<parameter name="browser" value="firefox"/>
     <classes>
       <class name="testCases.TC001_AccountRegistrationTest"/>
       <class name="testCases.TC002_LoginTest"/>
-      <class name="testCases.TC003_LoginDDT"/>
+      <class name="testCases.TC003_LoginDDT"/> 
     </classes> 
-  </test> <!-- Test -->
+  </test> --> <!-- Test -->
 </suite> <!-- Suite -->
