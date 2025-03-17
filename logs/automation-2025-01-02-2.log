@@ -1,0 +1,406 @@
+02-01-2025 19:44:38.595 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - Login failed as expected.
+02-01-2025 19:44:38.603 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+02-01-2025 19:44:38.684 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+02-01-2025 19:44:38.824 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Login failed as expected.
+02-01-2025 19:44:38.824 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+02-01-2025 19:46:39.905 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vimal\eclipse-workspace\opencartV121\grid-docker.xml
+
+02-01-2025 19:46:40.213 [TestNG-test-Linux-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - Setting up remote WebDriver for browser: chrome on OS: Linux
+02-01-2025 19:46:40.213 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Setting up remote WebDriver for browser: chrome on OS: Linux
+02-01-2025 19:46:40.213 [TestNG-test-Linux-Edge-2] INFO  testCases.TC002_LoginTest - Setting up remote WebDriver for browser: edge on OS: Linux
+02-01-2025 19:46:40.213 [TestNG-test-Linux-Chrome-2] INFO  testCases.TC002_LoginTest - Setting up remote WebDriver for browser: chrome on OS: Linux
+02-01-2025 19:46:40.213 [TestNG-test-Linux-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - Setting up remote WebDriver for browser: edge on OS: Linux
+02-01-2025 19:46:40.213 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - Setting up remote WebDriver for browser: edge on OS: Linux
+02-01-2025 19:46:43.160 [TestNG-test-Linux-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - Remote WebDriver setup successful.
+02-01-2025 19:46:43.160 [TestNG-test-Linux-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - WebDriver initialized successfully.
+02-01-2025 19:46:43.161 [TestNG-test-Linux-Chrome-2] INFO  testCases.TC002_LoginTest - Remote WebDriver setup successful.
+02-01-2025 19:46:43.161 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Remote WebDriver setup successful.
+02-01-2025 19:46:43.161 [TestNG-test-Linux-Chrome-2] INFO  testCases.TC002_LoginTest - WebDriver initialized successfully.
+02-01-2025 19:46:43.161 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - WebDriver initialized successfully.
+02-01-2025 19:46:43.337 [TestNG-test-Linux-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - Remote WebDriver setup successful.
+02-01-2025 19:46:43.337 [TestNG-test-Linux-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - WebDriver initialized successfully.
+02-01-2025 19:46:43.337 [TestNG-test-Linux-Edge-2] INFO  testCases.TC002_LoginTest - Remote WebDriver setup successful.
+02-01-2025 19:46:43.337 [TestNG-test-Linux-Edge-2] INFO  testCases.TC002_LoginTest - WebDriver initialized successfully.
+02-01-2025 19:46:43.341 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - All cookies cleared.
+02-01-2025 19:46:43.351 [TestNG-test-Linux-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - All cookies cleared.
+02-01-2025 19:46:43.373 [TestNG-test-Linux-Chrome-2] INFO  testCases.TC002_LoginTest - All cookies cleared.
+02-01-2025 19:46:43.400 [TestNG-test-Linux-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - Implicit wait set to 10 seconds.
+02-01-2025 19:46:43.401 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Implicit wait set to 10 seconds.
+02-01-2025 19:46:43.422 [TestNG-test-Linux-Chrome-2] INFO  testCases.TC002_LoginTest - Implicit wait set to 10 seconds.
+02-01-2025 19:46:43.483 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - Remote WebDriver setup successful.
+02-01-2025 19:46:43.483 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - WebDriver initialized successfully.
+02-01-2025 19:46:43.503 [TestNG-test-Linux-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - All cookies cleared.
+02-01-2025 19:46:43.520 [TestNG-test-Linux-Edge-2] INFO  testCases.TC002_LoginTest - All cookies cleared.
+02-01-2025 19:46:43.581 [TestNG-test-Linux-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - Implicit wait set to 10 seconds.
+02-01-2025 19:46:43.597 [TestNG-test-Linux-Edge-2] INFO  testCases.TC002_LoginTest - Implicit wait set to 10 seconds.
+02-01-2025 19:46:43.602 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - All cookies cleared.
+02-01-2025 19:46:43.666 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - Implicit wait set to 10 seconds.
+02-01-2025 19:46:44.916 [TestNG-test-Linux-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - Navigated to the application URL: https://tutorialsninja.com/demo/
+02-01-2025 19:46:45.081 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Navigated to the application URL: https://tutorialsninja.com/demo/
+02-01-2025 19:46:45.136 [TestNG-test-Linux-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+02-01-2025 19:46:45.671 [TestNG-test-Linux-Chrome-2] INFO  testCases.TC002_LoginTest - Navigated to the application URL: https://tutorialsninja.com/demo/
+02-01-2025 19:46:45.873 [TestNG-test-Linux-Chrome-2] INFO  testCases.TC002_LoginTest - **** Started TC002_LoginTest ****
+02-01-2025 19:46:45.946 [TestNG-test-Linux-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - Navigated to the application URL: https://tutorialsninja.com/demo/
+02-01-2025 19:46:45.966 [TestNG-test-Linux-Edge-2] INFO  testCases.TC002_LoginTest - Navigated to the application URL: https://tutorialsninja.com/demo/
+02-01-2025 19:46:45.986 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - Navigated to the application URL: https://tutorialsninja.com/demo/
+02-01-2025 19:46:46.048 [TestNG-test-Linux-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+02-01-2025 19:46:46.235 [TestNG-test-Linux-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+02-01-2025 19:46:46.330 [TestNG-test-Linux-Edge-2] INFO  testCases.TC002_LoginTest - **** Started TC002_LoginTest ****
+02-01-2025 19:46:46.645 [TestNG-test-Linux-Chrome-2] INFO  testCases.TC002_LoginTest - Clicked on My Account link
+02-01-2025 19:46:47.255 [TestNG-test-Linux-Edge-2] INFO  testCases.TC002_LoginTest - Clicked on My Account link
+02-01-2025 19:46:47.411 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+02-01-2025 19:46:47.433 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+02-01-2025 19:46:47.663 [TestNG-test-Linux-Chrome-2] INFO  testCases.TC002_LoginTest - Clicked on Login link
+02-01-2025 19:46:47.672 [TestNG-test-Linux-Chrome-2] INFO  testCases.TC002_LoginTest - Providing login details
+02-01-2025 19:46:47.678 [TestNG-test-Linux-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+02-01-2025 19:46:47.683 [TestNG-test-Linux-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+02-01-2025 19:46:48.213 [TestNG-test-Linux-Edge-2] INFO  testCases.TC002_LoginTest - Clicked on Login link
+02-01-2025 19:46:48.213 [TestNG-test-Linux-Edge-2] INFO  testCases.TC002_LoginTest - Providing login details
+02-01-2025 19:46:49.185 [TestNG-test-Linux-Chrome-2] INFO  testCases.TC002_LoginTest - Validating expected message...
+02-01-2025 19:46:49.216 [TestNG-test-Linux-Chrome-2] INFO  testCases.TC002_LoginTest - Test passed..
+02-01-2025 19:46:49.219 [TestNG-test-Linux-Chrome-2] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+02-01-2025 19:46:49.555 [TestNG-test-Linux-Edge-2] INFO  testCases.TC002_LoginTest - Validating expected message...
+02-01-2025 19:46:49.583 [TestNG-test-Linux-Edge-2] INFO  testCases.TC002_LoginTest - Test passed..
+02-01-2025 19:46:49.583 [TestNG-test-Linux-Edge-2] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+02-01-2025 19:46:49.869 [TestNG-test-Linux-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+02-01-2025 19:46:49.957 [TestNG-test-Linux-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message...
+02-01-2025 19:46:50.033 [TestNG-test-Linux-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - Test passed..
+02-01-2025 19:46:50.034 [TestNG-test-Linux-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+02-01-2025 19:46:50.387 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+02-01-2025 19:46:50.824 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+02-01-2025 19:46:50.825 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: admin@db.com
+02-01-2025 19:46:50.874 [TestNG-test-Linux-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+02-01-2025 19:46:50.875 [TestNG-test-Linux-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+02-01-2025 19:46:52.036 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+02-01-2025 19:46:52.797 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Login successful, logged out successfully.
+02-01-2025 19:46:52.798 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+02-01-2025 19:46:52.802 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+02-01-2025 19:46:52.937 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+02-01-2025 19:46:52.961 [TestNG-test-Linux-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message...
+02-01-2025 19:46:53.030 [TestNG-test-Linux-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - Test passed..
+02-01-2025 19:46:53.030 [TestNG-test-Linux-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+02-01-2025 19:46:53.333 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+02-01-2025 19:46:53.333 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: admin@db.com
+02-01-2025 19:46:53.456 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+02-01-2025 19:46:53.918 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+02-01-2025 19:46:53.919 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: admin@db.com
+02-01-2025 19:46:54.162 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+02-01-2025 19:46:54.271 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Login failed as expected.
+02-01-2025 19:46:54.271 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+02-01-2025 19:46:54.274 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+02-01-2025 19:46:54.414 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+02-01-2025 19:46:54.775 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+02-01-2025 19:46:54.776 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: jk@gmail.com
+02-01-2025 19:46:54.840 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+02-01-2025 19:46:55.603 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - Login successful, logged out successfully.
+02-01-2025 19:46:55.603 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+02-01-2025 19:46:55.605 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+02-01-2025 19:46:55.738 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+02-01-2025 19:46:55.766 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Login failed as expected.
+02-01-2025 19:46:55.767 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+02-01-2025 19:46:55.770 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+02-01-2025 19:46:55.770 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+02-01-2025 19:46:55.933 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+02-01-2025 19:46:56.229 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+02-01-2025 19:46:56.229 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: admin@db.com
+02-01-2025 19:46:56.330 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+02-01-2025 19:46:56.331 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: vimalkm@db.com
+02-01-2025 19:46:57.201 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+02-01-2025 19:46:57.305 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - Login failed as expected.
+02-01-2025 19:46:57.305 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+02-01-2025 19:46:57.309 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+02-01-2025 19:46:57.472 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+02-01-2025 19:46:57.616 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+02-01-2025 19:46:57.922 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+02-01-2025 19:46:57.922 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: jk@gmail.com
+02-01-2025 19:46:58.204 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Login successful, logged out successfully.
+02-01-2025 19:46:58.205 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+02-01-2025 19:46:58.209 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+02-01-2025 19:46:58.367 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+02-01-2025 19:46:58.830 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+02-01-2025 19:46:58.921 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - Login failed as expected.
+02-01-2025 19:46:58.921 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+02-01-2025 19:46:58.924 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+02-01-2025 19:46:58.965 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+02-01-2025 19:46:58.966 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: vimalk@db.com
+02-01-2025 19:46:59.084 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+02-01-2025 19:46:59.465 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+02-01-2025 19:46:59.466 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: vimalkm@db.com
+02-01-2025 19:46:59.851 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+02-01-2025 19:46:59.874 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - Login failed as expected.
+02-01-2025 19:46:59.874 [TestNG-test-Linux-Chrome-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+02-01-2025 19:47:00.661 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+02-01-2025 19:47:01.253 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - Login successful, logged out successfully.
+02-01-2025 19:47:01.253 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+02-01-2025 19:47:01.257 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+02-01-2025 19:47:01.403 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+02-01-2025 19:47:01.922 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+02-01-2025 19:47:01.922 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: vimalk@db.com
+02-01-2025 19:47:02.877 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+02-01-2025 19:47:02.910 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - Login failed as expected.
+02-01-2025 19:47:02.910 [TestNG-test-Linux-Edge-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+02-01-2025 19:50:27.643 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vimal\eclipse-workspace\opencartV121\windows.xml
+
+02-01-2025 19:50:27.938 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - Setting up Firefox with WebDriver BiDi.
+02-01-2025 19:50:27.938 [TestNG-test-Windows-FireFox-2] INFO  testCases.TC002_LoginTest - Setting up Firefox with WebDriver BiDi.
+02-01-2025 19:50:27.937 [TestNG-test-Windows-FireFox-1] INFO  testCases.TC001_AccountRegistrationTest - Setting up Firefox with WebDriver BiDi.
+02-01-2025 19:50:32.697 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - WebDriver initialized successfully.
+02-01-2025 19:50:33.067 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - All cookies cleared.
+02-01-2025 19:50:33.097 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Implicit wait set to 10 seconds.
+02-01-2025 19:50:34.868 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - WebDriver initialized successfully.
+02-01-2025 19:50:34.935 [TestNG-test-Windows-Edge-2] INFO  testCases.TC002_LoginTest - WebDriver initialized successfully.
+02-01-2025 19:50:35.720 [TestNG-test-Windows-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - WebDriver initialized successfully.
+02-01-2025 19:50:35.721 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - All cookies cleared.
+02-01-2025 19:50:35.735 [TestNG-test-Windows-Edge-2] INFO  testCases.TC002_LoginTest - All cookies cleared.
+02-01-2025 19:50:35.738 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Implicit wait set to 10 seconds.
+02-01-2025 19:50:35.742 [TestNG-test-Windows-Edge-2] INFO  testCases.TC002_LoginTest - Implicit wait set to 10 seconds.
+02-01-2025 19:50:35.881 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Navigated to the application URL: https://tutorialsninja.com/demo/
+02-01-2025 19:50:36.274 [TestNG-test-Windows-Chrome-2] INFO  testCases.TC002_LoginTest - WebDriver initialized successfully.
+02-01-2025 19:50:36.289 [TestNG-test-Windows-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - All cookies cleared.
+02-01-2025 19:50:36.337 [TestNG-test-Windows-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - Implicit wait set to 10 seconds.
+02-01-2025 19:50:36.760 [TestNG-test-Windows-Chrome-2] INFO  testCases.TC002_LoginTest - All cookies cleared.
+02-01-2025 19:50:36.778 [TestNG-test-Windows-Chrome-2] INFO  testCases.TC002_LoginTest - Implicit wait set to 10 seconds.
+02-01-2025 19:50:36.784 [TestNG-test-Windows-Edge-2] INFO  testCases.TC002_LoginTest - Navigated to the application URL: https://tutorialsninja.com/demo/
+02-01-2025 19:50:37.385 [TestNG-test-Windows-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - WebDriver initialized successfully.
+02-01-2025 19:50:37.555 [TestNG-test-Windows-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - All cookies cleared.
+02-01-2025 19:50:37.573 [TestNG-test-Windows-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - Implicit wait set to 10 seconds.
+02-01-2025 19:50:38.110 [TestNG-test-Windows-Edge-2] INFO  testCases.TC002_LoginTest - **** Started TC002_LoginTest ****
+02-01-2025 19:50:38.216 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Navigated to the application URL: https://tutorialsninja.com/demo/
+02-01-2025 19:50:39.190 [TestNG-test-Windows-Chrome-2] INFO  testCases.TC002_LoginTest - Navigated to the application URL: https://tutorialsninja.com/demo/
+02-01-2025 19:50:39.441 [TestNG-test-Windows-Chrome-2] INFO  testCases.TC002_LoginTest - **** Started TC002_LoginTest ****
+02-01-2025 19:50:39.626 [TestNG-test-Windows-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - Navigated to the application URL: https://tutorialsninja.com/demo/
+02-01-2025 19:50:40.282 [TestNG-test-Windows-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - Navigated to the application URL: https://tutorialsninja.com/demo/
+02-01-2025 19:50:40.302 [TestNG-test-Windows-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+02-01-2025 19:50:40.405 [TestNG-test-Windows-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+02-01-2025 19:50:40.459 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+02-01-2025 19:50:40.509 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+02-01-2025 19:50:40.758 [TestNG-test-Windows-Chrome-2] INFO  testCases.TC002_LoginTest - Clicked on My Account link
+02-01-2025 19:50:41.242 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+02-01-2025 19:50:41.257 [TestNG-test-Windows-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+02-01-2025 19:50:41.351 [TestNG-test-Windows-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+02-01-2025 19:50:42.116 [TestNG-test-Windows-Chrome-2] INFO  testCases.TC002_LoginTest - Clicked on Login link
+02-01-2025 19:50:42.121 [TestNG-test-Windows-Chrome-2] INFO  testCases.TC002_LoginTest - Providing login details
+02-01-2025 19:50:42.656 [TestNG-test-Windows-Edge-2] INFO  testCases.TC002_LoginTest - Clicked on My Account link
+02-01-2025 19:50:42.747 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+02-01-2025 19:50:42.749 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: admin@db.com
+02-01-2025 19:50:42.881 [TestNG-test-Windows-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+02-01-2025 19:50:42.888 [TestNG-test-Windows-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+02-01-2025 19:50:43.194 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+02-01-2025 19:50:43.415 [TestNG-test-Windows-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+02-01-2025 19:50:43.419 [TestNG-test-Windows-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+02-01-2025 19:50:44.358 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+02-01-2025 19:50:44.359 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: admin@db.com
+02-01-2025 19:50:44.935 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+02-01-2025 19:50:44.952 [TestNG-test-Windows-Edge-2] INFO  testCases.TC002_LoginTest - Clicked on Login link
+02-01-2025 19:50:44.952 [TestNG-test-Windows-Edge-2] INFO  testCases.TC002_LoginTest - Providing login details
+02-01-2025 19:50:45.194 [TestNG-test-Windows-Chrome-2] INFO  testCases.TC002_LoginTest - Validating expected message...
+02-01-2025 19:50:45.222 [TestNG-test-Windows-Chrome-2] INFO  testCases.TC002_LoginTest - Test passed..
+02-01-2025 19:50:45.227 [TestNG-test-Windows-Chrome-2] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+02-01-2025 19:50:45.979 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Login successful, logged out successfully.
+02-01-2025 19:50:45.980 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+02-01-2025 19:50:45.987 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+02-01-2025 19:50:46.403 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+02-01-2025 19:50:47.051 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+02-01-2025 19:50:47.051 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: admin@db.com
+02-01-2025 19:50:47.071 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+02-01-2025 19:50:47.721 [TestNG-test-Windows-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message...
+02-01-2025 19:50:47.868 [TestNG-test-Windows-Edge-2] INFO  testCases.TC002_LoginTest - Validating expected message...
+02-01-2025 19:50:47.902 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Login successful, logged out successfully.
+02-01-2025 19:50:47.902 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+02-01-2025 19:50:47.902 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+02-01-2025 19:50:47.931 [TestNG-test-Windows-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - Test passed..
+02-01-2025 19:50:47.932 [TestNG-test-Windows-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+02-01-2025 19:50:47.981 [TestNG-test-Windows-Edge-2] INFO  testCases.TC002_LoginTest - Test passed..
+02-01-2025 19:50:47.982 [TestNG-test-Windows-Edge-2] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+02-01-2025 19:50:48.290 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+02-01-2025 19:50:48.626 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - WebDriver initialized successfully.
+02-01-2025 19:50:48.638 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - All cookies cleared.
+02-01-2025 19:50:48.656 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - Implicit wait set to 10 seconds.
+02-01-2025 19:50:49.067 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+02-01-2025 19:50:49.105 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Login failed as expected.
+02-01-2025 19:50:49.106 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+02-01-2025 19:50:49.112 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+02-01-2025 19:50:49.182 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+02-01-2025 19:50:49.183 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: admin@db.com
+02-01-2025 19:50:49.365 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+02-01-2025 19:50:49.918 [TestNG-test-Windows-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message...
+02-01-2025 19:50:49.963 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+02-01-2025 19:50:49.964 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: jk@gmail.com
+02-01-2025 19:50:49.999 [TestNG-test-Windows-FireFox-2] INFO  testCases.TC002_LoginTest - WebDriver initialized successfully.
+02-01-2025 19:50:50.015 [TestNG-test-Windows-FireFox-2] INFO  testCases.TC002_LoginTest - All cookies cleared.
+02-01-2025 19:50:50.023 [TestNG-test-Windows-FireFox-2] INFO  testCases.TC002_LoginTest - Implicit wait set to 10 seconds.
+02-01-2025 19:50:50.055 [TestNG-test-Windows-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - Test passed..
+02-01-2025 19:50:50.055 [TestNG-test-Windows-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+02-01-2025 19:50:50.740 [TestNG-test-Windows-FireFox-1] INFO  testCases.TC001_AccountRegistrationTest - WebDriver initialized successfully.
+02-01-2025 19:50:50.765 [TestNG-test-Windows-FireFox-1] INFO  testCases.TC001_AccountRegistrationTest - All cookies cleared.
+02-01-2025 19:50:50.780 [TestNG-test-Windows-FireFox-1] INFO  testCases.TC001_AccountRegistrationTest - Implicit wait set to 10 seconds.
+02-01-2025 19:50:51.053 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+02-01-2025 19:50:51.095 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Login failed as expected.
+02-01-2025 19:50:51.095 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+02-01-2025 19:50:51.102 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+02-01-2025 19:50:51.189 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+02-01-2025 19:50:51.202 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - Navigated to the application URL: https://tutorialsninja.com/demo/
+02-01-2025 19:50:51.216 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Login failed as expected.
+02-01-2025 19:50:51.226 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+02-01-2025 19:50:51.230 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+02-01-2025 19:50:51.475 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+02-01-2025 19:50:51.498 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+02-01-2025 19:50:51.722 [TestNG-test-Windows-FireFox-2] INFO  testCases.TC002_LoginTest - Navigated to the application URL: https://tutorialsninja.com/demo/
+02-01-2025 19:50:52.020 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+02-01-2025 19:50:52.021 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: vimalkm@db.com
+02-01-2025 19:50:52.063 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+02-01-2025 19:50:52.063 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: jk@gmail.com
+02-01-2025 19:50:52.230 [TestNG-test-Windows-FireFox-2] INFO  testCases.TC002_LoginTest - **** Started TC002_LoginTest ****
+02-01-2025 19:50:52.601 [TestNG-test-Windows-FireFox-2] INFO  testCases.TC002_LoginTest - Clicked on My Account link
+02-01-2025 19:50:52.674 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+02-01-2025 19:50:52.681 [TestNG-test-Windows-FireFox-1] INFO  testCases.TC001_AccountRegistrationTest - Navigated to the application URL: https://tutorialsninja.com/demo/
+02-01-2025 19:50:53.000 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+02-01-2025 19:50:53.001 [TestNG-test-Windows-FireFox-2] INFO  testCases.TC002_LoginTest - Clicked on Login link
+02-01-2025 19:50:53.001 [TestNG-test-Windows-FireFox-2] INFO  testCases.TC002_LoginTest - Providing login details
+02-01-2025 19:50:53.074 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+02-01-2025 19:50:53.157 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Login failed as expected.
+02-01-2025 19:50:53.157 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+02-01-2025 19:50:53.166 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+02-01-2025 19:50:53.320 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+02-01-2025 19:50:53.328 [TestNG-test-Windows-FireFox-1] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+02-01-2025 19:50:53.609 [TestNG-test-Windows-FireFox-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+02-01-2025 19:50:53.839 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+02-01-2025 19:50:53.839 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: admin@db.com
+02-01-2025 19:50:54.305 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+02-01-2025 19:50:54.306 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: vimalkm@db.com
+02-01-2025 19:50:54.597 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+02-01-2025 19:50:54.923 [TestNG-test-Windows-FireFox-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+02-01-2025 19:50:54.923 [TestNG-test-Windows-FireFox-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+02-01-2025 19:50:54.995 [TestNG-test-Windows-FireFox-2] INFO  testCases.TC002_LoginTest - Validating expected message...
+02-01-2025 19:50:55.001 [TestNG-test-Windows-FireFox-2] INFO  testCases.TC002_LoginTest - Test passed..
+02-01-2025 19:50:55.001 [TestNG-test-Windows-FireFox-2] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+02-01-2025 19:50:55.364 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Login successful, logged out successfully.
+02-01-2025 19:50:55.364 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+02-01-2025 19:50:55.369 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+02-01-2025 19:50:55.430 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+02-01-2025 19:50:55.433 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+02-01-2025 19:50:55.541 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+02-01-2025 19:50:55.979 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - Login successful, logged out successfully.
+02-01-2025 19:50:55.979 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+02-01-2025 19:50:55.986 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+02-01-2025 19:50:56.014 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+02-01-2025 19:50:56.014 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: vimalk@db.com
+02-01-2025 19:50:56.133 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Login successful, logged out successfully.
+02-01-2025 19:50:56.133 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+02-01-2025 19:50:56.137 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+02-01-2025 19:50:56.232 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+02-01-2025 19:50:56.291 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+02-01-2025 19:50:56.358 [TestNG-test-Windows-FireFox-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message...
+02-01-2025 19:50:56.378 [TestNG-test-Windows-FireFox-1] INFO  testCases.TC001_AccountRegistrationTest - Test passed..
+02-01-2025 19:50:56.378 [TestNG-test-Windows-FireFox-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+02-01-2025 19:50:56.521 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+02-01-2025 19:50:56.522 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: admin@db.com
+02-01-2025 19:50:56.683 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+02-01-2025 19:50:56.683 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: vimalk@db.com
+02-01-2025 19:50:57.080 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+02-01-2025 19:50:57.089 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Login failed as expected.
+02-01-2025 19:50:57.089 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+02-01-2025 19:50:57.201 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+02-01-2025 19:50:57.301 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Login failed as expected.
+02-01-2025 19:50:57.302 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+02-01-2025 19:50:57.342 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+02-01-2025 19:50:57.355 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - Login failed as expected.
+02-01-2025 19:50:57.356 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+02-01-2025 19:50:57.364 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+02-01-2025 19:50:57.614 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+02-01-2025 19:50:57.901 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+02-01-2025 19:50:57.901 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: jk@gmail.com
+02-01-2025 19:50:58.440 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+02-01-2025 19:50:58.449 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - Login failed as expected.
+02-01-2025 19:50:58.449 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+02-01-2025 19:50:58.451 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+02-01-2025 19:50:58.675 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+02-01-2025 19:50:58.900 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+02-01-2025 19:50:58.900 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: vimalkm@db.com
+02-01-2025 19:50:59.549 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+02-01-2025 19:50:59.971 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - Login successful, logged out successfully.
+02-01-2025 19:50:59.971 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+02-01-2025 19:50:59.971 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+02-01-2025 19:51:00.208 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+02-01-2025 19:51:00.422 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+02-01-2025 19:51:00.422 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: vimalk@db.com
+02-01-2025 19:51:00.888 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+02-01-2025 19:51:00.899 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - Login failed as expected.
+02-01-2025 19:51:00.900 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+02-01-2025 19:52:08.763 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\vimal\eclipse-workspace\opencartV121\windows.xml
+
+02-01-2025 19:52:09.066 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - Setting up Firefox with WebDriver BiDi.
+02-01-2025 19:52:09.066 [TestNG-test-Windows-FireFox-1] INFO  testCases.TC001_AccountRegistrationTest - Setting up Firefox with WebDriver BiDi.
+02-01-2025 19:52:09.066 [TestNG-test-Windows-FireFox-2] INFO  testCases.TC002_LoginTest - Setting up Firefox with WebDriver BiDi.
+02-01-2025 19:52:11.772 [TestNG-test-Windows-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - WebDriver initialized successfully.
+02-01-2025 19:52:11.772 [TestNG-test-Windows-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - WebDriver initialized successfully.
+02-01-2025 19:52:11.831 [TestNG-test-Windows-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - All cookies cleared.
+02-01-2025 19:52:11.841 [TestNG-test-Windows-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - Implicit wait set to 10 seconds.
+02-01-2025 19:52:11.956 [TestNG-test-Windows-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - All cookies cleared.
+02-01-2025 19:52:11.975 [TestNG-test-Windows-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - Implicit wait set to 10 seconds.
+02-01-2025 19:52:12.259 [TestNG-test-Windows-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - Navigated to the application URL: https://tutorialsninja.com/demo/
+02-01-2025 19:52:12.554 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - WebDriver initialized successfully.
+02-01-2025 19:52:12.838 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - All cookies cleared.
+02-01-2025 19:52:12.913 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Implicit wait set to 10 seconds.
+02-01-2025 19:52:13.621 [TestNG-test-Windows-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+02-01-2025 19:52:13.716 [TestNG-test-Windows-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - Navigated to the application URL: https://tutorialsninja.com/demo/
+02-01-2025 19:52:13.854 [TestNG-test-Windows-Chrome-2] INFO  testCases.TC002_LoginTest - WebDriver initialized successfully.
+02-01-2025 19:52:14.036 [TestNG-test-Windows-Chrome-2] INFO  testCases.TC002_LoginTest - All cookies cleared.
+02-01-2025 19:52:14.044 [TestNG-test-Windows-Chrome-2] INFO  testCases.TC002_LoginTest - Implicit wait set to 10 seconds.
+02-01-2025 19:52:14.475 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - WebDriver initialized successfully.
+02-01-2025 19:52:14.600 [TestNG-test-Windows-Edge-2] INFO  testCases.TC002_LoginTest - WebDriver initialized successfully.
+02-01-2025 19:52:14.605 [TestNG-test-Windows-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - **** Started TC001_AccountRegistrationTest ****
+02-01-2025 19:52:14.641 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - All cookies cleared.
+02-01-2025 19:52:14.645 [TestNG-test-Windows-Edge-2] INFO  testCases.TC002_LoginTest - All cookies cleared.
+02-01-2025 19:52:14.655 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Implicit wait set to 10 seconds.
+02-01-2025 19:52:14.689 [TestNG-test-Windows-Edge-2] INFO  testCases.TC002_LoginTest - Implicit wait set to 10 seconds.
+02-01-2025 19:52:14.996 [TestNG-test-Windows-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+02-01-2025 19:52:15.369 [TestNG-test-Windows-Chrome-2] INFO  testCases.TC002_LoginTest - Navigated to the application URL: https://tutorialsninja.com/demo/
+02-01-2025 19:52:15.457 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Navigated to the application URL: https://tutorialsninja.com/demo/
+02-01-2025 19:52:15.932 [TestNG-test-Windows-Chrome-2] INFO  testCases.TC002_LoginTest - **** Started TC002_LoginTest ****
+02-01-2025 19:52:16.365 [TestNG-test-Windows-Edge-2] INFO  testCases.TC002_LoginTest - Navigated to the application URL: https://tutorialsninja.com/demo/
+02-01-2025 19:52:16.644 [TestNG-test-Windows-Edge-2] INFO  testCases.TC002_LoginTest - **** Started TC002_LoginTest ****
+02-01-2025 19:52:16.862 [TestNG-test-Windows-Chrome-2] INFO  testCases.TC002_LoginTest - Clicked on My Account link
+02-01-2025 19:52:17.260 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Navigated to the application URL: https://tutorialsninja.com/demo/
+02-01-2025 19:52:18.150 [TestNG-test-Windows-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+02-01-2025 19:52:18.175 [TestNG-test-Windows-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+02-01-2025 19:52:18.276 [TestNG-test-Windows-Edge-2] INFO  testCases.TC002_LoginTest - Clicked on My Account link
+02-01-2025 19:52:18.553 [TestNG-test-Windows-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+02-01-2025 19:52:19.408 [TestNG-test-Windows-Chrome-2] INFO  testCases.TC002_LoginTest - Clicked on Login link
+02-01-2025 19:52:19.419 [TestNG-test-Windows-Chrome-2] INFO  testCases.TC002_LoginTest - Providing login details
+02-01-2025 19:52:19.473 [TestNG-test-Windows-Edge-2] INFO  testCases.TC002_LoginTest - Clicked on Login link
+02-01-2025 19:52:19.473 [TestNG-test-Windows-Edge-2] INFO  testCases.TC002_LoginTest - Providing login details
+02-01-2025 19:52:20.276 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+02-01-2025 19:52:20.359 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - **** Started TC003_LoginDDT ****
+02-01-2025 19:52:20.398 [TestNG-test-Windows-FireFox-2] INFO  testCases.TC002_LoginTest - WebDriver initialized successfully.
+02-01-2025 19:52:20.417 [TestNG-test-Windows-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+02-01-2025 19:52:20.418 [TestNG-test-Windows-Edge-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+02-01-2025 19:52:20.648 [TestNG-test-Windows-FireFox-2] INFO  testCases.TC002_LoginTest - All cookies cleared.
+02-01-2025 19:52:20.662 [TestNG-test-Windows-FireFox-2] INFO  testCases.TC002_LoginTest - Implicit wait set to 10 seconds.
+02-01-2025 19:52:21.535 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+02-01-2025 19:52:22.116 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Clicked on My Account link
+02-01-2025 19:52:22.828 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+02-01-2025 19:52:22.828 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: admin@db.com
+02-01-2025 19:52:23.164 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Clicked on Login link
+02-01-2025 19:52:23.165 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Providing login details for username: admin@db.com
+02-01-2025 19:52:24.371 [TestNG-test-Windows-Edge-2] INFO  testCases.TC002_LoginTest - Validating expected message...
+02-01-2025 19:52:24.415 [TestNG-test-Windows-Edge-2] INFO  testCases.TC002_LoginTest - Test passed..
+02-01-2025 19:52:24.417 [TestNG-test-Windows-Chrome-2] INFO  testCases.TC002_LoginTest - Validating expected message...
+02-01-2025 19:52:24.421 [TestNG-test-Windows-Edge-2] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+02-01-2025 19:52:24.545 [TestNG-test-Windows-Chrome-2] INFO  testCases.TC002_LoginTest - Test passed..
+02-01-2025 19:52:24.545 [TestNG-test-Windows-Chrome-2] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+02-01-2025 19:52:24.860 [TestNG-test-Windows-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected confirmation message...
+02-01-2025 19:52:24.991 [TestNG-test-Windows-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - Test passed..
+02-01-2025 19:52:24.992 [TestNG-test-Windows-Chrome-1] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+02-01-2025 19:52:25.097 [TestNG-test-Windows-FireFox-2] INFO  testCases.TC002_LoginTest - Navigated to the application URL: https://tutorialsninja.com/demo/
+02-01-2025 19:52:25.721 [TestNG-test-Windows-Edge-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+02-01-2025 19:52:25.749 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - WebDriver initialized successfully.
+02-01-2025 19:52:25.758 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - All cookies cleared.
+02-01-2025 19:52:25.761 [TestNG-test-Windows-FireFox-2] INFO  testCases.TC002_LoginTest - **** Started TC002_LoginTest ****
+02-01-2025 19:52:25.783 [TestNG-test-Windows-FireFox-3] INFO  testCases.TC003_LoginDDT - Implicit wait set to 10 seconds.
+02-01-2025 19:52:26.037 [TestNG-test-Windows-FireFox-1] INFO  testCases.TC001_AccountRegistrationTest - WebDriver initialized successfully.
+02-01-2025 19:52:26.039 [TestNG-test-Windows-Chrome-3] INFO  testCases.TC003_LoginDDT - Validating expected outcome...
+02-01-2025 19:52:26.076 [TestNG-test-Windows-FireFox-1] INFO  testCases.TC001_AccountRegistrationTest - All cookies cleared.

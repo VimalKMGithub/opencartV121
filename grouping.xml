@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite thread-count="3" name="MasterSuite">
+<suite thread-count="5" name="MasterSuite" parallel="tests">
   <groups>
 	<run>
 		<include name="master"/>
@@ -11,7 +11,7 @@
     <listener class-name="utilities.ExtentReportManager"/>
   </listeners>
   
-  <test name="Test">
+  <test name="Test" thread-count="5" parallel="classes">
   	<parameter name="os" value="windows"/>
   	<parameter name="browser" value="chrome"/>
     <classes>
